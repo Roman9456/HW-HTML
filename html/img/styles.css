@@ -1,0 +1,11 @@
+.photo-of-SenJack {
+    float: left;
+    margin-left: 10px;
+    border: 2px solid gray;
+    padding: 5px;
+    display: inline-block;
+}
+
+    .photo-of-SenJack img {
+        display: block;
+    }

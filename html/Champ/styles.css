@@ -1,0 +1,9 @@
+.p {
+    font-size: 14px; 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5; 
+}
+
+ul, ol {
+    line-height: 22px;
+}
